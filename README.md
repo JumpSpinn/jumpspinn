@@ -11,7 +11,7 @@
 
 <h3 align="center">A few little things about me:</h3>
 <p align="center">
-My real name is Kevin Hille and I am currently 27 years old and come from Dortmund in Germany. I am currently working on a hobby project called Undefined-Roleplay. There I mainly work on the frontend development, but also on the backend development. Both, as well as all other programming languages or programs, I have taught myself. "Learning by doing" is my motto. You are welcome to contact me via the social networks below, please note that Discord contains the link to the hobby project.
+My name is Kevin Hille, I am currently 27 years old and I am from Dortmund, Germany. I am currently working on a project called Undefined-Roleplay in my spare time. Most of that consists of frontend development using JQuery. I occasionally do some C# backend development for that project as well. I have taught C#, Javascript, JQuery, HTML and CSS by myself. I am also in the process of learning Vue JS and getting more familiar with PHP as I move on in web development. I think “Learning by doing” is one of my philosophies which has helped me a lot learning these languages. My DMs are always open and you are welcome to contact me using my socials listed below or via Discord (JumpSpinn). You can also find the website to my side hustle “Undefined-Roleplay” linked below.
 </p>
 
 <!-- social networks -->
