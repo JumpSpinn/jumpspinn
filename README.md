@@ -18,7 +18,7 @@ My name is Kevin Hille, I am currently 27 years old and I am from Dortmund, Germ
 <h3 align="center">Social Networks:</h3>
 <p align="center">
 <a href="https://www.youtube.com/c/jumpspinn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jumpspinn" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.com/invite/undefined-roleplay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitch.svg" alt="https://discord.com/invite/undefined-roleplay" height="30" width="40" /></a>
+<a href="https://twitch.tv/jumpspinn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitch.svg" alt="https://discord.com/invite/undefined-roleplay" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.com/invite/undefined-roleplay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/invite/undefined-roleplay" height="30" width="40" /></a>
 </p>
 
