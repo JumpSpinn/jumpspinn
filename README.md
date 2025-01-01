@@ -11,15 +11,15 @@
 
 <h3 align="center">A few little things about me:</h3>
 <p align="center">
-My name is Kevin Hille, I am currently 27 years old and I am from Dortmund, Germany. I am currently working on a project called Undefined-Roleplay in my spare time. Most of that consists of frontend development using JQuery. I occasionally do some C# backend development for that project as well. I have taught C#, Javascript, JQuery, HTML and CSS by myself. I am also in the process of learning Vue JS and getting more familiar with PHP as I move on in web development. I think “Learning by doing” is one of my philosophies which has helped me a lot learning these languages. My DMs are always open and you are welcome to contact me using my socials listed below or via Discord (JumpSpinn). You can also find the website to my side hustle “Undefined-Roleplay” linked below.
+My name is Kevin Hille, I am currently 28 years old and I am from Dortmund, Germany. I am currently working on a project called MintV in my spare time. Most of that consists of frontend development using JQuery. I occasionally do some C# backend development for that project as well. I have taught C#, Javascript, JQuery, HTML and CSS by myself. I am also in the process of learning Vue JS and getting more familiar with PHP as I move on in web development. I think “Learning by doing” is one of my philosophies which has helped me a lot learning these languages. My DMs are always open and you are welcome to contact me using my socials listed below or via Discord (JumpSpinn). You can also find the website to my side hustle “MintV” linked below.
 </p>
 
 <!-- social networks -->
 <h3 align="center">Social Networks:</h3>
 <p align="center">
 <a href="https://www.youtube.com/c/jumpspinn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jumpspinn" height="30" width="40" /></a>
-<a href="https://twitch.tv/jumpspinn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitch.svg" alt="https://discord.com/invite/undefined-roleplay" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.com/invite/undefined-roleplay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/invite/undefined-roleplay" height="30" width="40" /></a>
+<a href="https://twitch.tv/jumpspinn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitch.svg" alt="https://discord.com/invite/mintv" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.com/invite/mintv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/invite/undefined-roleplay" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
