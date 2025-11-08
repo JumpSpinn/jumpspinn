@@ -1,5 +1,5 @@
 <h3 align="center">JumpSpinn</h3>
-<h4 align="center">Frontend/Backend Developer</h4>
+<h4 align="center">Full-Stack Developer</h4>
 
 <!-- own picture -->
 <p align="center">
@@ -20,18 +20,9 @@
   />
 </p>
 
-<h3 align="center">A few little things about me:</h3>
+<h3 align="center">About me:</h3>
 <p align="center">
-  My name is Kevin Hille, I am currently 28 years old and I am from Dortmund,
-  Germany. I am currently working on a project called MintV in my spare time. Most
-  of that consists of frontend development using JQuery. I occasionally do some C#
-  backend development for that project as well. I have taught C#, Javascript,
-  JQuery, HTML and CSS by myself. I am also in the process of learning Vue JS and
-  getting more familiar with PHP as I move on in web development. I think
-  “Learning by doing” is one of my philosophies which has helped me a lot learning
-  these languages. My DMs are always open and you are welcome to contact me using
-  my socials listed below or via Discord (JumpSpinn). You can also find the
-  website to my side hustle “MintV” linked below.
+  I'm Kevin (29 years old) from Dortmund, Germany, and I have gathered 8 years of experience in many areas. Starting with web development, up to databases and the communication between server and client. My personal goal is to engage in the tech community and contribute to new projects in order to develop myself further and expand my skills. I'm currently doing a retraining program to become a specialist in application development, which I'm completing here in Germany. My final exam will take place towards the end of June 2027. After the retraining, I would like to work in a company and further develop and demonstrate my skills. When I'm not coding, I like to spend my time relaxing on weekends and meeting friends. Nevertheless, I often catch myself thinking about my current projects even then - programmer's disease, as I like to call it. 
 </p>
 
 <!-- social networks -->
