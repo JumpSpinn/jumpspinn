@@ -1,4 +1,4 @@
-# [![jumpspinn header](https://raw.githubusercontent.com/JumpSpinn/jumpspinn/main/gh-bannner-light.png)](https://jumpspinn.github.io/portfolio-dist/)
+# [![jumpspinn header](https://raw.githubusercontent.com/JumpSpinn/jumpspinn/main/gh-bannner-light.png)](https://jumpspinn.de/)
 <!-- socials
 <p align='left'>
   <a href="https://instagram.com/"><img height="30" src="https://github.com/blablabla?raw=true"></a>
@@ -13,11 +13,11 @@ application development, which I'm completing here in Germany. My final exam wil
 I would like to work in a company and further develop and demonstrate my skills. When I'm not coding, I like to spend my time relaxing on weekends 
 and meeting friends. Nevertheless, I often catch myself thinking about my current projects even then - programmer's disease, as I like to call it.
 <hr>
-More about me you can visiting my <a href="https://jumpspinn.github.io/portfolio-dist/" target="blank">personal website.</a>
+More about me you can visiting my <a href="https://jumpspinn.de/" target="blank">personal website.</a>
 
 <h1>🤝 Connect with me</h4>
 <ul>
-  <li><a href="https://jumpspinn.github.io/portfolio-dist/" target="blank">Portfolio</a></li>
+  <li><a href="https://jumpspinn.de/" target="blank">Portfolio</a></li>
   <li><a href="mailto:jumpspinn@gmx.de?subject=ContactRequest" target="blank">Mail</a></li>
-  <li><a href="https://jumpspinn.github.io/portfolio-dist/" target="blank">Instagram</a></li>
+  <li><a href="https://www.instagram.com/jumpspinnofficial/" target="blank">Instagram</a></li>
 </ul>
